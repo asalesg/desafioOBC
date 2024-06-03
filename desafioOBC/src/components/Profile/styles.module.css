@@ -17,7 +17,7 @@
   }
   .container>div {
     border-top: solid 1px rgb(66, 140, 209);
-    padding: 1rem 1rem;
+    padding: 1rem 2rem;
   }
   .links {
     display: flex;
